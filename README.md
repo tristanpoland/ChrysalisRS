@@ -12,7 +12,7 @@
 [Features](#-features) •
 [Examples](#-examples) •
 [Extending](#-extending) •
-[Web UI Integration](#-web-ui-integration) •
+[Web UI Integration](#%EF%B8%8F-web-ui-integration) •
 [Contributing](#-contributing)
 
 </div>
