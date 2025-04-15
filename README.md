@@ -295,8 +295,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone the repository
-git clone https://github.com/chrysalis-rs/chrysalis_rs.git
-cd chrysalis_rs
+git clone https://github.com/tristanpoland/ChrysalisRS
+cd ChrysalisRS
 
 # Build the project
 cargo build
