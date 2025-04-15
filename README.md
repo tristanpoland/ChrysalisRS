@@ -8,13 +8,12 @@
 
 **Transform your logs into beautiful, structured JSON for elegant display in web UIs.**
 
-[Getting Started](#getting-started) •
-[Features](#features) •
-[Examples](#examples) •
-[Extending](#extending) •
-[Documentation](https://docs.rs/chrysalis_rs) •
-[Web UI Integration](#web-ui-integration) •
-[Contributing](#contributing)
+[Getting Started](#-getting-started) •
+[Features](#-features) •
+[Examples](#-examples) •
+[Extending](#-extending) •
+[Web UI Integration](#-web-ui-integration) •
+[Contributing](#-contributing)
 
 </div>
 
